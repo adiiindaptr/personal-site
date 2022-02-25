@@ -1,0 +1,33 @@
+body {
+  background-color: #FFF6DA;
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: #4F091D;
+}
+
+h2 {
+  color: #950101;
+}
+
+h3 {
+  color: #BD1616;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FF9D9D;
+  border-width: 8px;
+  width: 8%;
+}
+
+img:hover {
+  background-color: #4F091D;
+}
